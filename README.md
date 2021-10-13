@@ -4,7 +4,7 @@ The ipynb files are a sample of the code used in my Master's thesis 'Sentiment A
 
 Not all code has been uploaded due to copy right. 
 
-Stock price and market trend forecasting is a challenging issue due to the many variables, both known and unknown, where a time series element adds another layer of complexity. Investors are constantly looking for an edge in the market for improved predictions to maximise profits while academics look to provide evidence for different stock prediction theories.
+Abstarct: Stock price and market trend forecasting is a challenging issue due to the many variables, both known and unknown, where a time series element adds another layer of complexity. Investors are constantly looking for an edge in the market for improved predictions to maximise profits while academics look to provide evidence for different stock prediction theories.
 
 More recently, with the rise of social media platforms, the potential of sentiment analysis has been explored further as a predictor of stock price movements. Specifically, the aims of this study were to investigate if sentiment analysis can improve stock trend prediction and to compare Reddit and Twitter to the standard benchmark, Financial News, as a source of sentiment analysis.
 
